@@ -1,0 +1,14 @@
+game
+game.Network
+game.dataStorage
+game.userInterface
+game.userInterface.RendererWindow
+game.userInterface.applicationWindow
+gameModel.gameObjects
+gameModel.gameObjects.classes
+gameModel.gameObjects.items
+gameModel.gameObjects.landscape
+gameModel.gameObjects.monsters
+gameModel.gameWorld
+gameModel.gameWorld.maps
+unitTests

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<world>
+  <player>
+    <name>Chris</name>
+    <health>100</health>
+    <maxHealth>100</maxHealth>
+    <attack>10</attack>
+    <defence>5</defence>
+    <inventoryItems />
+  </player>
+</world>

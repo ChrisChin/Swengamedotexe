@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<world>
+  <player>
+    <type>PigFarmer</type>
+    <name>Chris</name>
+    <health>9999</health>
+    <maxHealth>9999</maxHealth>
+    <attack>999</attack>
+    <defence>999</defence>
+    <inventoryItems />
+  </player>
+  <map>
+    <name>StartingMap</name>
+    <gameObjects>
+      <object>
+        <name>Tree</name>
+        <x>0</x>
+        <y>0</y>
+      </object>
+      <object>
+        <name>PigFarmer</name>
+        <x>3</x>
+        <y>3</y>
+        <health>9999</health>
+        <maxHealth>9999</maxHealth>
+        <attack>999</attack>
+        <defence>999</defence>
+      </object>
+      <object>
+        <name>Tree</name>
+        <x>0</x>
+        <y>1</y>
+      </object>
+    </gameObjects>
+  </map>
+</world>
